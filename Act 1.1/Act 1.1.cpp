@@ -2,8 +2,6 @@
 #include "Calculos.h";
 
     int main() {
-        Calculos calc;
-
         // Caso 1: Esperado: 1
         std::cout << "Caso 1 (n = 1)" << std::endl;
         std::cout << "Esperado: 1" << std::endl;
