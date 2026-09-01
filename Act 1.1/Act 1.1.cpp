@@ -6,7 +6,7 @@
         std::cout << "Caso 1 (Se espera 1)" << std::endl;
         std::cout << "Iterativa:" << Calculos::sumaIterativa(1) << std::endl;
         std::cout << "Recursiva:" << Calculos::sumaRecursiva(1) << std::endl;
-        std::cout << "Directa:" << Calculos::sumaDirecta(1) << "\n";
+        std::cout << "Directa:" << Calculos::sumaDirecta(1) << "\n"; 
 
         // Caso 2: Esperado: 15
         std::cout << "Caso 2 (Se espera 15)" << std::endl;
